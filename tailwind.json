@@ -1,0 +1,12 @@
+{
+    "theme": {
+      "extend": {
+        "colors": {
+          "primary": "#000000",
+          "secondary": "#C1FF00",
+          "lightgray": "#F5F5F5"
+        }
+      }
+    }
+  }
+  
